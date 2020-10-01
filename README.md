@@ -1,2 +1,2 @@
 # ATM-machine-python-
-a short program for atm machine using file handling and functions
+A program for atm machine using file handling and functions with proper handling of the functionalities.
